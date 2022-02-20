@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "260301068649",
+    "project_id": "fanpageapp-a7aef",
+    "storage_bucket": "fanpageapp-a7aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260301068649:android:b15b6db2a6e9b6a91285f8",
+        "android_client_info": {
+          "package_name": "com.prashanth.fanPageApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260301068649-9vm9n65pebslaq04cp6ljsdc70m4bjsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrh59h_EJHb4slMCA27aJmX70NiA0y_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260301068649-9vm9n65pebslaq04cp6ljsdc70m4bjsm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260301068649-t8k05j11q9snqm1a3uvvq0t7jns5cok2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prashanth.fapPageApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
